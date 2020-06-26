@@ -31,5 +31,5 @@ For more info check out the following:
 - The [Contact Me](https://maheshwaghmare.com/say-hello/).
 - The [Getting started guide](https://maheshwaghmare.com/doc/image-seo/).
 - Other my [WordPress Plugins](https://wordpress.org/plugins/search/mahesh901122/).
-- Contribute though [development](https://github.com/maheshwaghmare/image-seo/).
-- Contribute though [small donation](https://www.paypal.me/mwaghmare7/).
+- Contribute with [development](https://github.com/maheshwaghmare/image-seo/).
+- Make a [small donation](https://www.paypal.me/mwaghmare7/).
