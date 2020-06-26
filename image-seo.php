@@ -1,8 +1,8 @@
 <?php
 /**
  * Plugin Name: Image SEO
- * Description: Easy to do the image SEO for the post, pages and custom post type content images for the Gutenberg.
- * Plugin URI: https://github.com/maheshwaghmare/image-seo/
+ * Description: Highlights the missing or empty alt and caption from the post, pages and custom post type images in a single place. Additionally, It checks the missing SEO focus keywords from the image alt tag.
+ * Plugin URI: https://maheshwaghmare.com/doc/image-seo/
  * Author: Mahesh M. Waghmare
  * Author URI: https://maheshwaghmare.com/
  * Version: 1.0.0

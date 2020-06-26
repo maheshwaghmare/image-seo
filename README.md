@@ -1,25 +1,35 @@
 # Image SEO
 
-Do SEO for the Gutenberg block editor images.
+The plugin “Image SEO” simply highlights the missing or empty alt and caption from the post images in single place. Additionally, it also checks the missing SEO focus keywords from the image alt tag.
 
-The pluginsshow all the available images from the Gutenberg content.
+Now, The support is added for the Gutenberg editor from Image SEO sidebar.
 
-It show the missing alt and caption from all the available images.
+See more at <a href="https://maheshwaghmare.com/doc/image-seo/">getting started guide</a>
 
-You can easily edit the alt & caption of all images in single view.
+## Highlights
 
-Additionally, plugin show the focus keywords from Rankmath and Yoast plugin which should be exist into the alt tag.
+- Zero configuration
+- Easy to use
+- Show the total used images
+- Highlight the missing alt and caption images
+- Edit alt and caption of all images from one place
+- Quick support
 
-Read more in the [getting started guide](https://maheshwaghmare.com/doc/image-seo/)
+**Welcome for featured requests**
 
-## Dev
+If you have any suggestion or any featured request then don't hesitate to [contact](https://maheshwaghmare.com/say-hello/).
 
-```sh
-npm start
-```
+## Bug reports
 
-## Browser-sync
+Bug reports for "Image SEO" are welcomed in our [repository on GitHub](https://github.com/maheshwaghmare/image-seo/). Please note that GitHub is not a support forum, and that issues that are not properly qualified as bugs will be closed.
 
-```sh
-browser-sync start --proxy="localhost/maheshwaghmare.com/wp-admin/post.php?post=5048&action=edit" --files "**/*"
-```"# image-seo" 
+## Further reading
+
+For more info check out the following:
+
+- The [maheshwaghmare.com](https://maheshwaghmare.com/) official website.
+- The [Contact Me](https://maheshwaghmare.com/say-hello/).
+- The [Getting started guide](https://maheshwaghmare.com/doc/image-seo/).
+- Other my [WordPress Plugins](https://wordpress.org/plugins/search/mahesh901122/).
+- Contribute though [development](https://github.com/maheshwaghmare/image-seo/).
+- Contribute though [small donation](https://www.paypal.me/mwaghmare7/).
