@@ -21,7 +21,7 @@ If you have any suggestion or any featured request then don't hesitate to [conta
 
 ## Bug reports
 
-Bug reports for "Image SEO" are welcomed in our [repository on GitHub](https://github.com/maheshwaghmare/image-seo/). Please note that GitHub is not a support forum, and that issues that are not properly qualified as bugs will be closed.
+Bug reports for "Image SEO" are welcomed in our [repository on GitHub](https://github.com/maheshwaghmare/image-seo/issues/new). Please note that GitHub is not a support forum, and that issues that are not properly qualified as bugs will be closed.
 
 ## Further reading
 
